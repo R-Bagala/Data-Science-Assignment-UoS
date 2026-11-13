@@ -1,1 +1,1 @@
-# Data-Science-Assignment-UoS
+This repository will include an assignment for a data science class. It details the processes of understanding, cleaning and analysing the data as well as using Python to generate insights with libraries such as pandas and matplotlib for visualizations.
